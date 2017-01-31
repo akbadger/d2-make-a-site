@@ -1,0 +1,64 @@
+body {
+    background: #949396;
+    font-family: 'Arsenal', sans-serif;
+    color: #DADFF7;
+    text-align: left;
+    padding-top:20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 40px;
+    border-right: 70px solid #232C33;
+    border-left: 70px solid #232C33;
+}
+header {
+    display: block;
+    width: auto;
+    height: 20px;
+    font-size: 16px;
+    font-family: 'Arsenal', sans-serif;
+    text-align: center;
+}
+header ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+header li { 
+display: inline; 
+padding: 20px; 
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+img {
+    padding-top: 20px;
+    display: block;
+    margin: auto;
+}
+a {
+    color: #fff;
+}
+.clay-photos{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#glaze-table{
+    padding-left: 20px;
+    padding-right: 40px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+th, td {
+    border-bottom: 1px solid #DADFF7;
+}
+#profile-pic{
+    border-radius: 50%;
+}
+#about-author{
+    font-size: 14px
+}
